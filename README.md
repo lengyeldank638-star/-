@@ -1,4 +1,9 @@
 > 基于 Vue 3 + ThinkPHP 8 的现代化彩票投注管理系统
+> ## 联系方式
+
+如需技术支持或定制开发，请联系：
+
+- **Telegram**: [@Getshell_Webshell](https://t.me/Getshell_Webshell)
 
 ## ✨ 核心功能
 
