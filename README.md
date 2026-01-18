@@ -4,7 +4,7 @@
 如需技术支持或定制开发，请联系：
 
 - **Telegram**: [@Getshell_Webshell](https://t.me/Getshell_Webshell)
-- ![特码统计](./main/捕获.png)
+- ![特码统计](./捕获.PNG)
 *特码统计 - 实时显示每个号码的投注情况和盈亏*
 
 ## ✨ 核心功能
